@@ -5,3 +5,5 @@ git rm --cached
 git restore
 git log
 git config
+git branch
+git checkout
