@@ -6,3 +6,4 @@ git restore
 git log
 git config
 git log --oneline
+git remote -v
