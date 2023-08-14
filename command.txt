@@ -7,3 +7,4 @@ git log
 git config
 git branch
 git checkout
+git log --oneline
